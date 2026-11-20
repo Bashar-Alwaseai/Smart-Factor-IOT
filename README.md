@@ -35,13 +35,13 @@ The project models an automated factory where sensors and actuators work togethe
 
 | Zone | Devices | Purpose |
 |---|---|---|
-| 🔵 Access & Power | RFID Card 1, RFID Card 2, RFID Reader, Door, Solar Panel, Battery | Secure entry and solar energy storage |
-| 🟡 Lighting | LED IoT3, LED IoT5, LED IoT7 | Indicator and area lighting |
-| 🔴 Comfort & Security | Window, Motion Detector, Fan, Fan2, Light, MCU2 | Motion-based light and fan control |
-| 🔷 Fire Safety | Smoke Detector, Fire Monitor, Fire Sprinkler, Siren, Heating Element, MCU0 | Fire detection and response |
-| 🟣 Vehicle & Street | Street Lamp, Old Car, Motion Detector, Garage Door | Parking and outdoor lighting |
-| 🟠 Weather | Wind Sensor, LED, MCU1 | Wind monitoring with indicator |
-| ➖ Perimeter | Trip Sensor | Detects crossing of a protected line |
+|  Access & Power | RFID Card 1, RFID Card 2, RFID Reader, Door, Solar Panel, Battery | Secure entry and solar energy storage |
+|  Lighting | LED IoT3, LED IoT5, LED IoT7 | Indicator and area lighting |
+|  Comfort & Security | Window, Motion Detector, Fan, Fan2, Light, MCU2 | Motion-based light and fan control |
+|  Fire Safety | Smoke Detector, Fire Monitor, Fire Sprinkler, Siren, Heating Element, MCU0 | Fire detection and response |
+|  Vehicle & Street | Street Lamp, Old Car, Motion Detector, Garage Door | Parking and outdoor lighting |
+|  Weather | Wind Sensor, LED, MCU1 | Wind monitoring with indicator |
+|  Perimeter | Trip Sensor | Detects crossing of a protected line |
 
 ##  IoT Server Dashboard
 
