@@ -60,7 +60,6 @@ The dashboard lists every registered device (smoke sensor, street lamp, garage d
 
 ##  Example Automation Scenarios
 
-> [Verify and edit these to match the conditions you created]
 
 | Trigger | Action |
 |---|---|
@@ -78,7 +77,7 @@ The dashboard lists every registered device (smoke sensor, street lamp, garage d
 3. Open it in Packet Tracer.
 4. Wait until the links turn green (the simulation converges).
 5. Click **Smartphone0**, then **Desktop**, then **Web Browser**.
-6. Open `http://192.168.10.10/home.html` and sign in [username / password].
+6. Open `http://192.168.10.10/home.html` and sign in [ bashar / bashar123 ].
 7. Control the devices or trigger events (for example, move a motion detector's target) and watch the reactions.
 
 ##  Repository Structure
