@@ -57,7 +57,6 @@ The dashboard lists every registered device (smoke sensor, street lamp, garage d
 - **Conditions:** create if-then rules between devices.
 - **Editor:** edit device settings.
 
-![IoT Dashboard](Images/Monitoring.png)
 
 ##  Example Automation Scenarios
 
